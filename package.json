@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.26",
+    "tailwindcss": "^3.3.3"
+  },
+  "name": "twentytwentytwo",
+  "description": "=== Twenty Twenty-Two === Contributors: wordpressdotorg Requires at least: 5.9 Tested up to: 6.2 Requires PHP: 5.6 Stable tag: 1.4 License: GPLv2 or later License URI: http://www.gnu.org/licenses/gpl-2.0.html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postcss-nested": "^6.0.1"
+  }
+}
